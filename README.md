@@ -1,4 +1,4 @@
-Status Badge: ![Python application](https://github.com/peeyushsinghal/Smart_Device/actions/workflows/python-app-1.yml/badge.svg)
+![Python application](https://github.com/peeyushsinghal/Smart_Device/actions/workflows/python-app-1.yml/badge.svg)
 
 # Smart Device Class
 
